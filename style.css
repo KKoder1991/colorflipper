@@ -24,5 +24,10 @@ h2 {
     text-decoration: none;
     cursor: pointer;
     margin: 4px 2px;
+    display: inline-block;
+}
 
+.button:hover {
+    background-color:blue;
+    border: blue 3px solid;
 }
