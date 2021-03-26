@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
 
 body {
-    background-color: red;
+    background-color: #b6a19e;
     font-family: "Syne Mono", sans-serif;
     text-align: center;
     padding: 50px;
@@ -21,6 +21,10 @@ header > h1{
 #color-banner{
     background-color: black;
     color: white;
+    height: 300px;
+    width: 400px;
+    text-align: center;
+    display: inline-block;
 }
 h2 {
     font-size: 46px;
@@ -29,13 +33,12 @@ h2 {
 .button {
     background-color: white;
     border: white 3px solid;
-    border-radius: 30%;
     font-family: "Syne Mono", sans-serif;
     font-size: 46px;
     text-decoration: none;
     cursor: pointer;
-    margin: 4px 2px;
-    display: inline-block;
+    margin: 20px 10px;
+    width: 400px;
 }
 
 .button:hover {
