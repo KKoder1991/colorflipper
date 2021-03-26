@@ -7,6 +7,22 @@ body {
     padding: 50px;
 }
 
-button {
-    
+header > h1{
+    font-size: 92px;
+}
+
+h2 {
+    font-size: 46px;
+}
+
+.button {
+    background-color: white;
+    border: white 3px solid;
+    border-radius: 30%;
+    font-family: "Syne Mono", sans-serif;
+    font-size: 46px;
+    text-decoration: none;
+    cursor: pointer;
+    margin: 4px 2px;
+
 }
