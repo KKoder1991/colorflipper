@@ -11,6 +11,10 @@ header > h1{
     font-size: 92px;
 }
 
+#color-banner{
+    background-color: black;
+    color: white;
+}
 h2 {
     font-size: 46px;
 }
