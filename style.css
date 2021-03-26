@@ -18,19 +18,16 @@ header > h1{
     font-size: 92px;
 }
 
-#color-banner{
-    background-color: black;
+h2 {
+    font-size: 46px;
     color: white;
     height: 300px;
     width: 400px;
     text-align: center;
     display: inline-block;
 }
-h2 {
-    font-size: 46px;
-}
 
-.button {
+#btn {
     background-color: white;
     border: white 3px solid;
     font-family: "Syne Mono", sans-serif;
@@ -41,7 +38,7 @@ h2 {
     width: 400px;
 }
 
-.button:hover {
+#btn:hover {
     background-color:blue;
     border: blue 3px solid;
 }
